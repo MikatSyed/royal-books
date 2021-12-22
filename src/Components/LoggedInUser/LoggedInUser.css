@@ -1,0 +1,21 @@
+.user-image {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  .user-details{
+      height: 300px;
+      width: 450px;
+      margin-top:20px;
+  }
+  .user-details table {
+    width: 100%;
+    padding: 10px;
+    display: block;
+  }
+  .user-details table td {
+    padding-right: 10px;
+    padding-bottom: 15px;
+    font-weight: 700;
+  }

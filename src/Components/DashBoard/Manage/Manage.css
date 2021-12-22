@@ -1,0 +1,15 @@
+.table-bordered td, .table-bordered th, .table-bordered,.table thead th{
+    border: none;
+}
+thead{
+    background-color: #F5F6FA;
+}
+.delet-icon{
+    cursor: pointer;
+}
+.maneg-product-table th{
+    font-size: 19px;
+}
+.maneg-product-table tr td{
+    font-weight: 700;
+}
